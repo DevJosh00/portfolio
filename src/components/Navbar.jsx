@@ -19,7 +19,7 @@ const handleCLick = () => setNav(!nav)
      </div>
      
      {/* menu */}
-    
+     
          <ul className="hidden sm:flex mr-10">
              <li className="hover:scale-125 duration-200">
                  <Link to="home" smooth={true} duration={500} > Home</Link>
