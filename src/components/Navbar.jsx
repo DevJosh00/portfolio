@@ -13,12 +13,14 @@ const handleCLick = () => setNav(!nav)
     <header className="fixed w-full h-[67px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
    {/** logo area */}
      <div>
-     <img src={Logo} alt="Logo Imge" style={{ height: '60px' }} />
+   <Link to="home" smooth={true} duration={500} > 
+          <img className='ml-10' src={Logo} alt="Logo Imge" style={{ height: '60px' }} />
+   </Link>
      </div>
      
      {/* menu */}
     
-         <ul className="hidden sm:flex ">
+         <ul className="hidden sm:flex mr-10">
              <li className="hover:scale-125 duration-200">
                  <Link to="home" smooth={true} duration={500} > Home</Link>
              </li>

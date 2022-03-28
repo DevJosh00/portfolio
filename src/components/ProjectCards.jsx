@@ -9,9 +9,9 @@ const ProjectCards = () => {
 
 
 {/** ProjectCards */}
-            <div style={{backgroundImage:`url(${Proj})`}} className='shadow-lg shadow-[#040a16] group container rounded-md flex flex-col justify-center items-center mx-auto content-div hover:scale-95 sm:hover:scale-110 h-[180px] md:h-[230px] sm:h-[230px]'>
+            <div style={{backgroundImage:`url(${Proj})`}} className='shadow-lg shadow-[#040a16] group rounded-md flex flex-col justify-center items-center mx-auto content-div sm:hover:scale-110 h-[180px] md:h-[230px] sm:h-[230px]'>
             {/**HoverEffects */}
-            <div className='opacity-0 group-hover:opacity-100 group-hover:scale-110 duration-500'> 
+            <div className='opacity-100 duration-500 text-black group-hover:text-white'> 
                 <span className='text-xl font-bold'>
                 <p className='text-center text-2xl py-2'> Basic TodoList</p>
                 <p className='text-sm'>[ Html, CSS , VanillaJs ]</p>
@@ -22,7 +22,7 @@ const ProjectCards = () => {
                   </a>
                 </div>
             </div>
-            </div>
+            </div> 
             
         
 
