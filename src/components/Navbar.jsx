@@ -5,6 +5,8 @@ import Logo from '../assets/logooo.png';
 import {Link} from 'react-scroll';
 
 const Navbar = () => {
+
+
 const [nav, setNav] = useState(false)
 const handleCLick = () => setNav(!nav)
 
@@ -36,7 +38,7 @@ return (
          <li className="hover:scale-125 duration-200">
            <Link to="contact" smooth={true} duration={500} >Contact</Link>
          </li>
-        </ul>
+       </ul>
      
 
          {/* hamburger */}
@@ -88,7 +90,6 @@ return (
         </li> 
       </ul>
     </div>
-
     </header>
   )
 }
