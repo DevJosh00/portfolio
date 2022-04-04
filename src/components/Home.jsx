@@ -10,12 +10,9 @@ const Home = () => {
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col  justify-center h-full lg:ml-48">
         <p className="text-xl text-[#f8641f]">Hi, my name is</p>
         <h1 className="text-4xl sm:text-7xl text-[#ddebff] font-extrabold" >Joshua Biong</h1>
-        <h2 className="text-3xl sm:text-6xl text-[#a5a5a5] font-semibold " >I'm a Self-taugh Mobile Developer.</h2>
+        <h2 className="text-3xl sm:text-6xl text-[#a5a5a5] font-semibold " >I'm a Self-taugh Software Developer.</h2>
         <p className="text-[#a5a5a5] max-w-[600px] py-8">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Et similique
-          doloremque itaque veniam magni corporis rerum asperiores voluptatum
-          dolor odit debitis iste corrupti numquam commodi laborum voluptates
-          eaque, velit quo.
+         Based in Davao City
           
         
         </p> 

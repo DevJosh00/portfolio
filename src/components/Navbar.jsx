@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import {FaBars , FaTimes, FaGithub, FaFacebook, FaLinkedin} from 'react-icons/fa';
 import {HiOutlineMail} from 'react-icons/hi';
-import Logo from '../assets/html.png';
+import Logo from '../assets/logooo.png';
 import {Link} from 'react-scroll';
 
 const Navbar = () => {
@@ -14,7 +14,7 @@ const handleCLick = () => setNav(!nav)
    {/** logo area */}
      <div>
    <Link to="home" smooth={true} duration={500} > 
-          <img className='ml-10' src={Logo} alt="Logo Imge" style={{ height: '60px' }} />
+          <img className='ml-10' src={Logo} alt="Logo Imge" style={{ height: '30px' }} />
    </Link>
      </div>
      
