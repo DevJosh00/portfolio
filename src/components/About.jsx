@@ -15,9 +15,10 @@ const About = () => {
                       <p className='sm:text-right text-3xl font-bold  lg:ml-28' >Hello World! Im please to meet you!  </p>
                    </div>     
                    <div>
-                       <p className='lg:mr-28'>
-                        I'm Joshua Biong from the city of Davao. 
-                        Let me help you to bring your ideas to life. Powered by the language I speak and let's turn your requirements into Website or Software.
+                       <p className='lg:mr-28 mx-auto'>
+                        I'm Joshua Biong from the city of Davao. A junior software developer 
+                        Let me help you to bring your ideas to life. Powered by the language I speak and let's turn your requirements 
+                        into Website or Software.
                        </p>
                    </div>            
                </div>
