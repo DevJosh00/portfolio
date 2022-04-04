@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/https//:JoshBiong.github.io/Portfolio%20/static/css/main.96320bdc.css",
+    "main.js": "/https//:JoshBiong.github.io/Portfolio%20/static/js/main.23adc9cf.js",
+    "static/media/todo.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/todo.206c585334c52a0c1ec1.png",
+    "static/media/ems.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/ems.51cc3a0c795c4d33783e.png",
+    "static/media/react.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/react.143a6fd9362e1634a41e.png",
+    "static/media/portfolio.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/portfolio.309d2bc7d70a0a0a62bd.png",
+    "static/media/CS.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/CS.726f8c7477d3616829eb.png",
+    "static/media/crypto.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/crypto.0b47a3590d90561895eb.png",
+    "static/media/crud.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/crud.885bee9a3b3fc54455ef.png",
+    "static/media/linked.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/linked.ee51856dd542b9673655.png",
+    "static/media/html.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/html.5f77e90e11607bf9b3e1.png",
+    "static/media/vstlogo.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/vstlogo.2d5c5986e3b4b5fea163.png",
+    "static/media/css.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/css.4e67641bb68b658d9b2b.png",
+    "static/media/MYSQL.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/MYSQL.6e42b2a035b28f240021.png",
+    "static/media/gmailC.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/gmailC.8d55216f1780ecfa4edc.png",
+    "static/media/jslogo.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/jslogo.26cc380eedcd3ea3d29a.png",
+    "static/media/fb.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/fb.5b2ad70d5d5fcebca561.png",
+    "static/media/tcss.png": "/https//:JoshBiong.github.io/Portfolio%20/static/media/tcss.8f03e0a31e494b7425bf.png",
+    "index.html": "/https//:JoshBiong.github.io/Portfolio%20/index.html",
+    "main.96320bdc.css.map": "/https//:JoshBiong.github.io/Portfolio%20/static/css/main.96320bdc.css.map",
+    "main.23adc9cf.js.map": "/https//:JoshBiong.github.io/Portfolio%20/static/js/main.23adc9cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96320bdc.css",
+    "static/js/main.23adc9cf.js"
+  ]
+}
