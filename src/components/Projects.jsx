@@ -1,7 +1,7 @@
 import React from 'react';
 import Todo from '../assets/todo.png';
 import ems from '../assets/ems.png';
-import crud from '../assets/crud.png';
+
 import crypt from '../assets/crypto.png';
 import port from '../assets/portfolio.png';
 
@@ -102,11 +102,11 @@ return (
           </div> 
       </div>
 
-         {/**project Five */}
+         {/**project Five 
       <div>                          
             <div  style={{backgroundImage:`url(${crud})`}} 
             className='shadow-lg shadow-[#040a16] group rounded-md flex flex-col justify-center items-center mx-auto content-div sm:hover:scale-110 h-[180px] md:h-[230px] sm:h-[230px]'>
-              {/**HoverEffects */}
+              {/**HoverEffects *
               <div className='opacity-100 duration-500 text-black font-sans '> 
                   <span className='text-xl font-bold text-center'>
                     <p className='text-center text-3xl py-2  bg-blue-300 shadow-xl
@@ -120,9 +120,10 @@ return (
                   </div>
               </div>
           </div> 
-
-
       </div>
+          */}
+
+
      
  
 

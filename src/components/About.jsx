@@ -9,11 +9,11 @@ const About = () => {
                        <p className='text-4xl font-bold text-gray300 inline border-b-4 border-orange-600' >About</p> 
                     </div>
                     <div></div>  
-               </div>
+               </div>           
                <div className='mx-w-[1000px] w-full grid sm:grid-cols-2 gap-8 pl-4 '>
                    <div>
-                      <p className='sm:text-right text-3xl font-bold  lg:ml-28' >Hello World! Im please to meet you!  </p>
-                   </div>     
+                      <p className='sm:text-right text-3xl font-bold  lg:ml-28' >Hello World! Im pleased to meet you!  </p>
+           </div> 
                    <div>
                        <p className='lg:mr-28 mx-auto'>
                         I'm Joshua Biong from the city of Davao. A junior software developer 
