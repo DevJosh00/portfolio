@@ -1,5 +1,4 @@
 import React from 'react'
-
 import Gith from '../assets/git.png'
 import Facebook from '../assets/fb.png'
 import Gmail from '../assets/gmailC.png'
@@ -12,20 +11,22 @@ const Footer = () => {
         <div className='max-w-[1000px] flex flex-col justify-center items-center p-4 mx-auto'>
          
            <div className='sm:text-center'>
-                <p className='text-xl font-bold text-gray-300 inline border-b-4 py-1 border-orange-600'>Powered By:</p>
+                <p className='font-extralight text-sm text-gray-300 py-1 '>Powered By:</p>
            </div>
 
    {/**PoweredBy */}       
-         <div className='w-full mx-auto grid grid-cols-3 sm:grid-cols-3 gap-8 text-center p-8'>               
-                   <div className='w-30 py-4'>
-                       <p className='w-20 mx-auto text-xl text-white font-extralight'>React |</p>                     
-                    </div>
-                     <div className=' py-4'>
-                          <p className=' mx-auto text-xl font-extralight text-white'>TailwindCSS</p>                     </div>
-                     <div className='w-30 py-4'>
-                          <p className='mx-auto font-extralight text-xl text-white'>| GetForm</p>                
+         <div className='w-full mx-auto grid grid-cols-3 sm:grid-cols-3 gap-6 text-center p-6'>               
+                     <div className='mx-auto'>
+                       <p className=' inline border-x-2 px-2 text-sm font-extralight text-white'>Reactjs</p>                     
                      </div>
-                    </div>
+                     <div className='mx-auto'>
+                       <p className=' inline border-x-2 px-2 text-sm font-extralight text-white'>TailwindCss</p>                     
+                     </div>
+                     <div className='mx-auto'>
+                       <p className=' inline border-x-2 px-2 text-sm font-extralight text-white'>Getform</p>                     
+                     </div>
+                    
+        </div>
 
          {/**SocialAcountIcons */}  
          <div className=' sm:hidden'>

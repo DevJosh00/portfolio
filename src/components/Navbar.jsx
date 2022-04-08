@@ -13,26 +13,26 @@ const handleCLick = () => setNav(!nav)
 
 return (
 
-  <header className="fixed w-full h-[67px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
+   <header className="fixed w-full h-[67px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
       {/** logo area */}
       <div>
          <Link to="home" smooth={true} duration={500} > 
-            <img className='ml-10' src={Logo} alt="Logo Imge" style={{ height: '30px' }} />
+            <img className='ml-10 sm:ml-6' src={Logo} alt="Logo Imge" style={{ height: '30px' }} />
          </Link>
       </div>
 
        {/* menu */}    
      <ul className="hidden sm:flex mr-10">
         <li className="hover:scale-125 duration-200">
-            <Link to="home" smooth={true} duration={500} > Home</Link>
-        </li>
+            <Link to="home" smooth={true} duration={500} > </Link>
+        </li> 
         <li className="hover:scale-125 duration-200"> 
             <Link to="projects" smooth={true} duration={500} >Project</Link>
         </li>  
-        <li className="hover:scale-125 duration-200">
+        <li className="hover:scale-125  duration-200">
             <Link to="about" smooth={true} duration={500} >About</Link>
         </li>
-        <li className="hover:scale-125 duration-200">
+        <li className="hover:scale-125  duration-200">
             <Link to="skill" smooth={true} duration={500} >Skill</Link>
          </li>
          <li className="hover:scale-125 duration-200">
@@ -91,6 +91,7 @@ return (
       </ul>
     </div>
     </header>
+
   )
 }
 
