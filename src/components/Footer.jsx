@@ -36,16 +36,16 @@ const Footer = () => {
          <div className='w-full grid grid-cols-2 text-center py-8 items-center sm:hidden'>               
                    
                    <a href="https://github.com/JoshBiong" className='w-30 py-4 hover:scale-90 hover:shadow-lg group hover:shadow-cyan-500/50 duration-500'>
-                   <img className='w-10 mx-auto group-hover:scale-125 duration-500 ' src={Gith} alt="React icon"></img> 
+                   <img className='w-10 mx-auto group-hover:scale-125 duration-500 ' src={Gith} alt="Github"></img> 
                    </a>
                    <a href="https://www.facebook.com/profile.php?id=100077361020459" className='w-30 py-4 hover:scale-90 group hover:shadow-lg hover:shadow-cyan-500/50 duration-500'>
-                   <img className='w-10 mx-auto group-hover:scale-125 duration-500' src={Facebook} alt="Tcss icon" ></img>  
+                   <img className='w-10 mx-auto group-hover:scale-125 duration-500' src={Facebook} alt="Facebook" ></img>  
                    </a>
                     <a href="https://www.linkedin.com/in/joshua-biong-395180190/" className='w-30 py-4 group hover:scale-90 hover:shadow-lg hover:shadow-cyan-500/50 duration-500'>
-                   <img className='w-10 mx-auto group-hover:scale-125 duration-500' src={LinkedIn} alt="React icon"></img>     
+                   <img className='w-10 mx-auto group-hover:scale-125 duration-500' src={LinkedIn} alt="LinkedIn"></img>     
                    </a>  
                    <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGNVzfBkXHlgBphLNsRcxbCqWRlSwCKJZFxNmQbvmmBhtsQRNKDDSMsblDfnpTphCZVB" className='w-30 py-4 group hover:scale-90 hover:shadow-lg hover:shadow-cyan-500/50 duration-500'>
-                   <img className='w-10 mx-auto group-hover:scale-125 duration-500' src={Gmail} alt="React icon"></img>
+                   <img className='w-10 mx-auto group-hover:scale-125 duration-500' src={Gmail} alt="Gmail"></img>
                    </a>
                    
 

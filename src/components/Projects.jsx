@@ -13,15 +13,15 @@ return (
 
   <div name='projects' className='w-full md:h-screen text-gray-300 bg-[#132642]'>
      <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
-           <div className='pb-8 sm:text-center'>
+           <div className='pb-6 sm:text-center'>
              <p className='text-4xl font-bold inline border-b-4 border-orange-600'>Projects</p>
-             <p className='py-4 text-xl'>Checkout it out!</p>
+            
            </div>
 
-      <div  className='grid sm:grid-cols-2 md:grid-cols-3 gap-6'>    {/**ProjectContainer */}   {/** ProjectCards */}
+      <div  className='grid sm:grid-cols-2 md:grid-cols-2 gap-6'>    {/**ProjectContainer */}   {/** ProjectCards */}
 
       <div> {/**project One */}                
-         <div  style={{backgroundImage:`url(${crypt})`}} 
+         <div style={{backgroundImage:`url(${crypt})`}} 
               className='shadow-lg shadow-[#040a16] group rounded-md flex flex-col justify-center items-center mx-auto content-div sm:hover:scale-110 h-[180px] md:h-[230px] sm:h-[230px]'>
               {/**HoverEffects */}
              <div className='opacity-100 duration-500 text-black font-sans  group-hover:text-white'> 
