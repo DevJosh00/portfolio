@@ -11,6 +11,7 @@ const Footer = () => {
         <div className='max-w-[1000px] flex flex-col justify-center items-center p-4 mx-auto'>
          
            <div className='sm:text-center'>
+                <p className='font-extralight text-sm text-gray-300 py-1 '>© Copyright 2022 | Joshua Biong</p>
                 <p className='font-extralight text-sm text-gray-300 py-1 '>Powered By:</p>
            </div>
 
