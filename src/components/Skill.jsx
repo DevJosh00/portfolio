@@ -25,7 +25,7 @@ const Skill = () => {
 
                 <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-4 text-center py-2 items-center'>
 
-                    <div className=' shadow-md shadow-[#040c16] hover:shadow-cyan-500/50 hover:scale-1000 sm:hover:scale-110 duration-500 h-48 p-6'>
+                    <div className=' shadow-md shadow-[#040c16] hover:shadow-cyan-500/50 hover:scale-1000 sm:hover:scale-900 duration-500 h-48 p-6'>
                         <img className='w-20 mx-auto items-center py-3' src={Logo} alt="Html logo " ></img>
                         <p className='py-4'>HTML</p>
                     </div>
