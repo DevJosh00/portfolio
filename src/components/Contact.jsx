@@ -1,7 +1,14 @@
-import React from 'react'
+import React, {useForm} from 'react'
+
+
+const [register, handleSubmit] = useForm();
 
 const Contact = () => {
+
+
+  
   return (
+   
     <div name='contact' className='bg-[#132642] flex justify-center items-center w-full h-screen p-2 '>
       <form method='POST' action='https://getform.io/f/17bc0f68-a186-42c9-8007-068c819b61b8' className='max-w-[600px] w-full flex flex-col '>
       
