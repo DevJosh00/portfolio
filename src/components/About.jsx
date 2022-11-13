@@ -17,7 +17,7 @@ const About = () => {
                    </div> 
                    <div>
                        <p className='lg:mr-28 mx-auto'>
-                        I'm Joshua Biong from the city of Davao. A junior software developer 
+                        I'm Joshua Biong from the city of Davao. A Mobile developer 
                         Let me help you to bring your ideas to life. Powered by the language I speak and let's turn your requirements 
                         into Website or Software.
                        </p>

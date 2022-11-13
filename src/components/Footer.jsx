@@ -34,8 +34,7 @@ const Footer = () => {
              <p className='text-lg text-white'>Reach Me Out Here </p>
          </div>
 
-         <div className='w-full grid grid-cols-2 text-center py-8 items-center sm:hidden'>               
-                   
+         <div className='w-full grid grid-cols-2 text-center py-8 items-center sm:hidden'>                   
                    <a href="https://github.com/JoshBiong" className='w-30 py-4 hover:scale-90 hover:shadow-lg group hover:shadow-cyan-500/50 duration-500'>
                    <img className='w-10 mx-auto group-hover:scale-125 duration-500 ' src={Gith} alt="Github"></img> 
                    </a>
@@ -47,10 +46,7 @@ const Footer = () => {
                    </a>  
                    <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGNVzfBkXHlgBphLNsRcxbCqWRlSwCKJZFxNmQbvmmBhtsQRNKDDSMsblDfnpTphCZVB" className='w-30 py-4 group hover:scale-90 hover:shadow-lg hover:shadow-cyan-500/50 duration-500'>
                    <img className='w-10 mx-auto group-hover:scale-125 duration-500' src={Gmail} alt="Gmail"></img>
-                   </a>
-                   
-
-                                                               
+                   </a>                                                                        
          </div>
         </div>
    </div>
